@@ -1,0 +1,16 @@
+Final Model: XGBoost Classifier
+
+Features:
+Exposure_cat
+TSA_DHW
+Windspeed
+Cyclone_Frequency
+Realm_Tropical Atlantic
+Realm_Temperate Australasia
+Realm_Western Indo-Pacific
+
+Parameters:
+{'max_depth': 15, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 1.0}
+
+Performance Metric:
+F1
