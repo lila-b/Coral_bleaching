@@ -1,12 +1,24 @@
 Final Model: XGBoost Classifier
 
 Features:
-Exposure_cat
-TSA_DHW
-Windspeed
+Distance_to_Shore
+Turbidity
 Cyclone_Frequency
-Realm_Tropical Atlantic
+Depth_m
+Windspeed
+SSTA
+SSTA_Frequency
+TSA
+TSA_DHW
+Temperature_Maximum_C
+Exposure_cat
+Realm_Central Indo-Pacific
+Realm_Eastern Indo-Pacific
 Realm_Temperate Australasia
+Realm_Temperate Northern Atlantic
+Realm_Temperate Northern Pacific
+Realm_Tropical Atlantic
+Realm_Tropical Eastern Pacific
 Realm_Western Indo-Pacific
 
 Parameters:
