@@ -12,17 +12,17 @@ TSA
 TSA_DHW
 Temperature_Maximum_C
 Exposure_cat
-Realm_Central Indo-Pacific
+Realm_Central Indo-Pacific 
 Realm_Eastern Indo-Pacific
 Realm_Temperate Australasia
-Realm_Temperate Northern Atlantic
-Realm_Temperate Northern Pacific
+Realm_Temperate Northern Atlantic 
+Realm_Temperate Northern Pacific 
 Realm_Tropical Atlantic
 Realm_Tropical Eastern Pacific
 Realm_Western Indo-Pacific
 
 Parameters:
-{'max_depth': 15, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 1.0}
+{'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
 
 Performance Metric:
 F1
